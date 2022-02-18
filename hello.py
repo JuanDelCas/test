@@ -1,2 +1,1 @@
 print("Bye world")
-)
